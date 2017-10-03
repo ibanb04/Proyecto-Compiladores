@@ -357,20 +357,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Modelos/hiperboloide 2/hiperboloide 2.fbm
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Modelos/hiperboloide 2/hiperboloide 2.fbm
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Ivan Bettin\Documents\GitHub\Proyecto-Compiladores\Proyecto
     Realidad Aumentada
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 24270000
-    m_LastClickedID: 10020
-    m_ExpandedIDs: 0000000024270000522700006627000074270000ac270000ca270000162800002a280000502800007a280000d628000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 150}
+    m_SelectedIDs: da270000
+    m_LastClickedID: 10202
+    m_ExpandedIDs: 0000000024270000522700005a2700006627000074270000a4270000c2270000ea2700000e280000262800002c2800004e2800007a280000d628000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -398,7 +398,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000024270000522700006627000074270000ac270000ca270000f2270000162800002a280000502800007a280000d6280000
+    m_ExpandedIDs: 0000000024270000522700005a2700006627000074270000a4270000c2270000ea2700000e280000262800002c2800004e2800007a280000d6280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -516,7 +516,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 82fbffff1afcffff00000000
+    m_ExpandedIDs: 1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -571,9 +571,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -35.454792, y: 4.501516, z: 143.73077}
+    m_Target: {x: 28.773804, y: -35.361908, z: 71.12752}
     speed: 2
-    m_Value: {x: -35.454792, y: 4.501516, z: 143.73077}
+    m_Value: {x: 28.773804, y: -35.361908, z: 71.12752}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -596,13 +596,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.21537627, y: 0.23550928, z: -0.053601712, w: 0.9461964}
+    m_Target: {x: -0.21877027, y: -0.32569802, z: 0.07773558, w: -0.91652477}
     speed: 2
-    m_Value: {x: 0.21537496, y: 0.23550785, z: -0.053601388, w: 0.9461906}
+    m_Value: {x: -0.21877027, y: -0.32569802, z: 0.07773558, w: -0.91652477}
   m_Size:
-    m_Target: 360.19153
+    m_Target: 310.89636
     speed: 2
-    m_Value: 360.19153
+    m_Value: 310.89636
   m_Ortho:
     m_Target: 0
     speed: 2
