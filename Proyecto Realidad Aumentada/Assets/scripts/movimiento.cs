@@ -12,7 +12,7 @@ public class movimiento : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(new Vector3(0f, 1f, 0f));
+        transform.Rotate(new Vector3(0f, 1.4f, 0f));
 
     }
 }
