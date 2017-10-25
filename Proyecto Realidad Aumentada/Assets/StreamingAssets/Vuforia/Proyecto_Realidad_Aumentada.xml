@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="cilindroslogaritmico" size="10.000000 5.475504" />
+    <ImageTarget name="cilindroparabolico" size="10.000000 4.867725" />
+    <ImageTarget name="cilindrosenodial" size="10.000000 6.331522" />
+    <ImageTarget name="cilindrohiperbolico" size="10.000000 5.389049" />
+    <ImageTarget name="Esfera" size="10.000000 11.346154" />
     <ImageTarget name="elipsoide" size="20.000000 18.571428" />
     <ImageTarget name="Conoeliptico" size="20.000000 37.371429" />
     <ImageTarget name="paraboloideeliptico" size="20.000000 27.749077" />
